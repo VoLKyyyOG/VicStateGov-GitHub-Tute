@@ -6,3 +6,5 @@ Let's init here.
 Test edit for today.
 
 Online edit rn.
+
+Monday tute - hello!
